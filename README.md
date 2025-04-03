@@ -1,8 +1,8 @@
-<h1 align="left">Hey <img src="https://camo.githubusercontent.com/fa3b9292d0f2bfe0e30c0d8b0e0fb7ad611ffdf5452a610f621dbf137c3f5a5c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035" alt="" style="width: 50px;"> What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left"A motivated and detail-oriented Information Systems graduate with hands-on experience in web and software development. Proficient in HTML, CSS, SASS, Bootstrap, C#, ASP.NET, and SQL, with a strong foundation in front-end and back-end development. Successfully developed several projects, Eager to apply technical skills, learn new technologies, and contribute to innovative projects in a dynamic and growth-oriented environment</p>
+<p align="left">My name is ... and I'm a ..., from ....</p>
 
 ###
 
