@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">A motivated and detail-oriented Information Systems graduate with hands-on experience in web and software development. Proficient in HTML, CSS, SASS, Bootstrap, C#, ASP.NET, and SQL, with a strong foundation in front-end and back-end development. Successfully developed several projects, Eager to apply technical skills, learn new technologies, and contribute to innovative projects in a dynamic and growth-oriented environment</p>
 
 ###
 
