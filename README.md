@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey <img src="https://camo.githubusercontent.com/fa3b9292d0f2bfe0e30c0d8b0e0fb7ad611ffdf5452a610f621dbf137c3f5a5c/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313537373330353530352f373337332f68616e645f776176652e6769663f31353737333035353035" alt="" style="width: 50px;"> What's up?</h1>
 
 ###
 
