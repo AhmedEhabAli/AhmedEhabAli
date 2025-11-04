@@ -64,7 +64,7 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/AhmedEhabAli/AhmedEhabAli/output/snake.svg" alt="Snake animation" width="600" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="600" />
 
 
 
