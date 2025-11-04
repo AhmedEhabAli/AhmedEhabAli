@@ -64,7 +64,8 @@
   </a>
 </div>
 
-![Snake animation](https://raw.githubusercontent.com/AhmedEhabAli/AhmedEhabAli/output/snake.svg)
+<img src="https://raw.githubusercontent.com/AhmedEhabAli/AhmedEhabAli/output/snake.svg" alt="Snake animation" width="600" />
+
 
 
 <div>
