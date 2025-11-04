@@ -54,8 +54,9 @@
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
 </div>
 
+###
 
-<div align="center" style="margin: 40px 0;">
+<div align="center" >
   <a href="mailto:ahmedehab2010510@gmail.com" target="_blank" style="margin-right: 15px;">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="45" alt="gmail" />
   </a>
@@ -64,9 +65,10 @@
   </a>
 </div>
 
+###
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 
-
+###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=random"  />
