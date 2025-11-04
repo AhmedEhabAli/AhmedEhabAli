@@ -55,7 +55,7 @@
 </div>
 
 
-<div align="left">
+<div align="left" style="margin:50px">
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=ahmedehab2010510@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=#&style=for-the-badge" height="50" alt="gmail logo"  />
   </a>
